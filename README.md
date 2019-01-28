@@ -1,5 +1,5 @@
 ### chromNN
-Here, we propose a bimodal neural network architecture to model induced *in vivo* TF binding based on TF's sequence preferences as well the preexisting chromatin landscape.The sequence and chromatin sub-networks interact in an additive model to predict genome-wide TF binding. 
+We develop a bimodal neural network architecture to model induced *in vivo* TF binding based on TF's sequence preferences as well the preexisting chromatin landscape.The sequence and chromatin sub-networks interact in an additive model to predict genome-wide TF binding. 
 
 
 ### Citation (Update with BioRxiv submission)
